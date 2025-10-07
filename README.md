@@ -54,6 +54,8 @@ Includes some interesting code / features working with e.g Power BI
 - Customer behaviour outside transactions (e.g., returns, satisfaction) not captured.  
 - External factors such as market competition or economic conditions not included.  
 ### Dashboard Preview
-![Dashboard Preview](images/tata_job_simulation_dashboard.jpg)
 
+![Screenshot Job Sim](https://github.com/user-attachments/assets/9642612f-2d11-4ed7-b08e-c44057fa53c8)
+
+![Screenshot  TATA Job Simulation (Tableau)](https://github.com/user-attachments/assets/a3495883-0e8b-4585-8b74-8287a022e152)
 
